@@ -1,4 +1,1 @@
-Toady is my case tools exam
-Cricket is my favourite game
-Today is a very hot day
-
+Today is case tools exam
